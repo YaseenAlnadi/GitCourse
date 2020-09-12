@@ -1,4 +1,4 @@
 # GitCourse
 Learn Git 
 
-##Learn Git
+## Comments of project
